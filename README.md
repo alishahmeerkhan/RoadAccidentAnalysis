@@ -30,7 +30,7 @@ An interactive desktop application designed to explore and analyze road accident
 
 ## 📂 Project Structure
 - `Road Accident Analysis.ipynb`: The primary source file containing the application logic, data cleaning pipeline, and GUI implementation.
-- `RTA.csv`: The dataset containing road accident records (required for execution).
+- `RTA.csv`: The dataset containing road accident records (can be downloaded from the above link).
 
 ---
 
